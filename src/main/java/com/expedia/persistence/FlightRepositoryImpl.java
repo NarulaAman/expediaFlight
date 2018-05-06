@@ -115,5 +115,4 @@ public class FlightRepositoryImpl implements FlightRepository {
 			return flightList;
 		}
 	}
-	
 }
