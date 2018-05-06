@@ -1,0 +1,7 @@
+com.expedia
+com.expedia.controller
+com.expedia.domain
+com.expedia.Exception
+com.expedia.persistence
+com.expedia.service
+com.expedia.util
